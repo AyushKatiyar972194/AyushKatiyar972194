@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushKatiyar972194
 - 👀 I’m interested in Software Enginnering
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C,Java and Web Development
 - 💞️ I’m looking to do internship from my 2nd year that is in 2023-2024
 - 📫 You can reach me on my whatsapp number +919305375596
 
