@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyushKatiyar972194
+- 👋 Hi, I’m @AyushKatiyar
 - 👀 I’m interested in Software Enginnering
 - 🌱 I’m currently learning C,Java and Web Development
 - 💞️ I’m looking to do internship from my 3rd year that is in 2024-2025
